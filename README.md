@@ -5,10 +5,6 @@ Tenho 17 anos e venho me encantando pelo mundo da programação. Atualmente, ten
 - 👩‍🎓 Técnica em Desenvolvimento de Sistemas - Etec
 - 🖥️ Cursando tecnólogo em Desenvolvimento de Software Multiplataforma - Fatec
 
-##
-- :pushpin: 🇧🇷
-<!--### Hi there 👋-->
-
 <!--
 **isefshondo/isefshondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

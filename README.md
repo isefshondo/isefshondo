@@ -5,11 +5,11 @@ Tenho 17 anos e venho me encantando pelo mundo da programação. Atualmente, ten
 - 👩‍🎓 Técnica em Desenvolvimento de Sistemas - Etec
 - 🖥️ Cursando tecnólogo em Desenvolvimento de Software Multiplataforma - Fatec
 
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/isefshondo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isefshondo&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isefshondo&layout=compact&langs_count=7&theme=aura_dark"/>
-</div>
+</div>-->
 
 ##
 

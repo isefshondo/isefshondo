@@ -1,4 +1,4 @@
-# Hallo! Eu sou a Isabelle 👋
+# Olá! Eu sou a Isabelle 👋
 Tenho 17 anos e venho me encantando pelo mundo da programação. Atualmente, tenho como objetivo me tornar uma desenvolvedora Back-end!
 
 ### Formações

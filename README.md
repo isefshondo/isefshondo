@@ -1,5 +1,5 @@
 # Olá! Eu sou a Isabelle 👋
-Tenho 17 anos e venho me encantando pelo mundo da programação. Comecei meus estudos na área de T.I com um curso técnico de desenvolvimento de sistemas, no qual eu aprendi MySQL, desenvolvimento de software e desenvolvimento web, segmento que me fez continuar nesta área. Atualmente, tenho como objetivo me tornar uma desenvolvedora Full-stack!
+Tenho 17 anos e venho me encantando pelo mundo da programação. Atualmente, tenho como objetivo me tornar uma desenvolvedora Full-stack!
 
 ### Formações
 - 👩‍🎓 Técnica em Desenvolvimento de Sistemas - Etec (JAN/2019 - DEZ/2021)
